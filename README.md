@@ -16,8 +16,6 @@ I compare a classical baseline (**TF-IDF + Logistic Regression**) with a transfo
 This project uses a toxic comment dataset with the following labels:
 `toxic, severe_toxic, obscene, threat, insult, identity_hate`.
 
-If you use the Kaggle / Wikipedia Toxic Comment dataset, make sure you follow the dataset license and terms.
-
 ## Setup
 ### Option A: Run in Google Colab (recommended)
 - Open the notebook in Colab and run cells in order.
